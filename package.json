@@ -1,0 +1,19 @@
+{
+  "name": "node_sqlite",
+  "version": "1.0.0",
+  "description": "connect node js app to sqlite database ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sqlite",
+    "node"
+  ],
+  "author": "Elham rababah",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
